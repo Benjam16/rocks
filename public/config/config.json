@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x89645B2A948b6D9F9AE701455D93e84F00C44FE4",
+  "SCAN_LINK": "https://scan.pulsechain.com/address/0x89645B2A948b6D9F9AE701455D93e84F00C44FE4",
+  "NETWORK": {
+    "NAME": "PulseChain",
+    "SYMBOL": "PLS",
+    "ID": 369
+  },
+  "NFT_NAME": "Pulse Rocks",
+  "SYMBOL": "Pulse Rock",
+  "MAX_SUPPLY": 100,
+  "WEI_COST": 1000000000000000000000000,
+  "DISPLAY_COST": 1000000,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "",
+  "MARKETPLACE_LINK": "https://twitter.com/Pulserock_nft",
+  "SHOW_BACKGROUND": true
+}
